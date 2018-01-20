@@ -1,2 +1,3 @@
-# configs
-Some of my configs.
+#dotfiles
+
+My vimrcs, xmonad configs, i3 configs, polybar configs.
